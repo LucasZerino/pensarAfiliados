@@ -366,10 +366,12 @@ button:hover{
     }
     .left-m{
         margin-top: 300px;
+        margin-left: 10px;
     }
     .logo{
        display: none;
     }
+    
   }
 
   @media only screen and (max-width: 500px) {
@@ -378,6 +380,10 @@ button:hover{
     }
     .tit{
         margin-left: 50px;
+    }
+    .titmd{
+        margin-top: 0px;
+        margin-bottom: 0px;
     }
   }
 
