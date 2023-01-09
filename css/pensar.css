@@ -350,7 +350,10 @@ button:hover{
         justify-content: center;
     }
     .left{
-        min-height: 550px;
+        min-height: 1050px;
+    }
+    .subtit{
+        max-width: 250px;
     }
     .right{
         flex: 1;
